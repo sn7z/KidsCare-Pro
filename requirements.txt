@@ -1,0 +1,15 @@
+streamlit-authenticator 
+streamlit-card 
+streamlit-extras 
+streamlit-lottie
+streamlit
+boto3
+pandas
+matplotlib
+seaborn
+plotly
+Pillow
+numpy
+streamlit-option-menu
+pywhatkit
+groq
