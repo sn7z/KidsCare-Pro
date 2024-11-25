@@ -32,7 +32,7 @@ table = dynamodb.Table(DYNAMODB_TABLE)
 
 
 client = Groq(
-    api_key="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"
+    api_key="YOUR-API-KEY"
 )
 
 def get_ai_insights(profile_data):
